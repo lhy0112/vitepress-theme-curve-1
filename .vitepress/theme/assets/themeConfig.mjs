@@ -3,7 +3,7 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "Curve",
+    title: "小小果码",
     // 站点描述
     description: "Hello World",
     // 站点logo
@@ -14,16 +14,16 @@ export const themeConfig = {
     lang: "zh-CN",
     // 作者
     author: {
-      name: "Admin",
+      name: "轩皓",
       cover: "/images/logo/logo.webp",
-      email: "114514@gmail.com",
+      email: "lhy000112@163.com",
       link: "https://www.imsyy.top",
     },
   },
   // 备案信息
   icp: "萌ICP备114514号",
   // 建站日期
-  since: "2020-07-28",
+  since: "2025-03-06",
   // 每页文章数据
   postSize: 8,
   // inject
